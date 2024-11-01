@@ -1,0 +1,16 @@
+{
+  "name": "@nexys/version-checker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "A utility to check and display service versions across different environments",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  },"files": [
+    "dist/**/*"
+  ]
+}
